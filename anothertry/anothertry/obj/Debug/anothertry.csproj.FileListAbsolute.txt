@@ -1,0 +1,22 @@
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\bin\Debug\anothertry.exe.config
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\bin\Debug\anothertry.exe
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\bin\Debug\anothertry.pdb
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.csproj.AssemblyReference.cache
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.Form1.resources
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.Properties.Resources.resources
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.csproj.GenerateResource.cache
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.csproj.CoreCompileInputs.cache
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.exe
+D:\Visual Studio Microsoft\C# Codes\First_Project\anothertry\anothertry\obj\Debug\anothertry.pdb
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.csproj.AssemblyReference.cache
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.csproj.SuggestedBindingRedirects.cache
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.Form1.resources
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.Properties.Resources.resources
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.csproj.GenerateResource.cache
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.csproj.CoreCompileInputs.cache
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.exe
+E:\C# Codes\My Code\anothertry\anothertry\obj\Debug\anothertry.pdb
+E:\C# Codes\My Code\anothertry\anothertry\bin\Debug\anothertry.exe.config
+E:\C# Codes\My Code\anothertry\anothertry\bin\Debug\anothertry.exe
+E:\C# Codes\My Code\anothertry\anothertry\bin\Debug\anothertry.pdb
